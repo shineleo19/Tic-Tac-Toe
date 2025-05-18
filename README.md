@@ -38,15 +38,15 @@ A simple **2-player Tic-Tac-Toe game** built using basic C++ concepts. The game 
 
 ## 🎯 How to Play
 
--Players take turns choosing a cell number from 1 to 9.
--The board updates after each move.
--The game ends when a player wins or the board is full (draw).
--Invalid or occupied cell selections are not accepted.
+- Players take turns choosing a cell number from 1 to 9.
+- The board updates after each move.
+- The game ends when a player wins or the board is full (draw).
+- Invalid or occupied cell selections are not accepted.
 
 ---
 
 ## 🧩 Future Improvements
 
--Add single-player mode with AI
--Implement a GUI using SFML or SDL
--Score tracking between rounds
+- Add single-player mode with AI
+- Implement a GUI using SFML or SDL
+- Score tracking between rounds
